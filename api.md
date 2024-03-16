@@ -222,7 +222,7 @@ or
 request (string)prompt
 
 responce (string) result or "An error occurred."
-
+## This section is not completed yet
 - POST `/api/mic/` mic
 
 request (mp3)audioFile
